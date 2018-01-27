@@ -1,0 +1,69 @@
+
+
+body {
+  background-color: AliceBlue ;
+}
+
+.picture{
+  float: left;
+}
+
+img {
+  max-width: 400px;
+  margin: 25px 50px 25px 25px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+
+h1 {
+  /* padding: 25px; */
+  color: DarkCyan ;
+  font-family: verdana;
+  font-size: 80px;
+  text-align: left;
+  margin-bottom: -40px;
+}
+
+h2 {
+  color: DarkCyan ;
+  font-family: verdana;
+  font-size: 30px;
+  text-align: left;
+  }
+
+h3 {
+  color: DarkCyan;
+  font-size: 20px;
+  text-align: left;
+}
+
+.about-me {
+  float: left;
+}
+
+.links {
+  display: block;
+  margin-right: 75px;
+}
+
+p {
+  color: DarkCyan;
+  text-align: left;
+  max-width: 400px;
+}
+
+
+.contact {
+  float: left;
+
+}
+
+p {
+  color: DarkCyan;
+  text-align: left;
+}
+
+.flex-container {
+  display: flex;
+}
